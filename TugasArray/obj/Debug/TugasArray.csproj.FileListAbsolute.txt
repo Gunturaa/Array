@@ -1,0 +1,8 @@
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\bin\Debug\TugasArray.exe.config
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\bin\Debug\TugasArray.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\bin\Debug\TugasArray.pdb
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\obj\Debug\TugasArray.csproj.AssemblyReference.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\obj\Debug\TugasArray.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\obj\Debug\TugasArray.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\obj\Debug\TugasArray.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\TugasArray\TugasArray\obj\Debug\TugasArray.pdb
